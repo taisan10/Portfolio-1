@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Mail } from "lucide-react";
 
 
-export default function Hero({ data }) {
+export default function  HeroComponent({ data }) {
 return (
 <section className="py-12 md:py-20">
 <motion.div

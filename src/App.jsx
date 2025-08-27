@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./Components/Header";
-import Hero from "../components/Hero.jsx";
+import  HeroComponent from "../components/HeroComponentjsx";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
@@ -15,7 +15,7 @@ return (
 <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white text-slate-800">
 <Header data={DATA} />
 <main id="top" className="max-w-6xl mx-auto px-4">
-<Hero data={DATA} />
+<HeroComponent data={DATA} />
 <About data={DATA} />
 <Skills data={DATA} />
 <Projects data={DATA} />
