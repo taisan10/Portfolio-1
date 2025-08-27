@@ -1,13 +1,13 @@
 import React from "react";
-import Header from "./Components/Header";
-import  HeroComponent from "../Components/HeroComponent";
-import About from "./Components/About";
-import Skills from "./Components/Skills";
-import Projects from "./Components/Projects";
-import Certifications from "./Components/Certifications";
-import Contact from "./Components/Contact";
-import Footer from "./components/Footer";
-import DATA from "./Components/Data/Data";
+import Header from "./Component/Header";
+import  HeroComponent from "../Component/HeroComponent";
+import About from "./Component/About";
+import Skills from "./Component/Skills";
+import Projects from "./Component/Projects";
+import Certifications from "./Component/Certifications";
+import Contact from "./Component/Contact";
+import Footer from "./Component/Footer";
+import DATA from "./Component/Data/Data";
 
 
 export default function App() {
