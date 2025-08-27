@@ -1,11 +1,11 @@
 import React from "react";
 import Header from "./Components/Header";
-import  HeroComponent from "../components/HeroComponent.jsx";
-import About from "./components/About";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
-import Certifications from "./components/Certifications";
-import Contact from "./components/Contact";
+import  HeroComponent from "../Components/HeroComponent";
+import About from "./Components/About";
+import Skills from "./Components/Skills";
+import Projects from "./Components/Projects";
+import Certifications from "./Components/Certifications";
+import Contact from "./Components/Contact";
 import Footer from "./components/Footer";
 import DATA from "./Components/Data/Data";
 
