@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./Components/Header";
-import Hero from "../components/hero.jsx";
+import Hero from "../components/Hero.jsx";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
