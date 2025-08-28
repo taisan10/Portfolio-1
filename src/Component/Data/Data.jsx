@@ -44,8 +44,8 @@ certs: [
 ],
 
 contact: {
-linkedin: "https://www.linkedin.com/in/tarun-bansal/",
-resume: "https://drive.google.com/",
+linkedin: "https://www.linkedin.com/in/tarun-bansal-0836312a5",
+resume: "https://drive.google.com/drive/folders/1xZWZTXdEM6Y-AOIyHe00JhIXNJAA2q_x",
 github: "https://github.com/taisan10",
 email: "mailto:tarunbansal@gmail.com",
 },
