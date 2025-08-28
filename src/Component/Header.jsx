@@ -16,7 +16,7 @@ return (
 </a>
 ))}
 </nav>
-<a href={`mailto:${data.email}`} className="md:inline-flex hidden text-sm font-medium px-3 py-1.5 rounded-xl border border-gray-300 hover:bg-gray-50">
+<a href={`mailto:${data.email}`} className="hidden md:inline-flex hidden text-sm font-medium px-3 py-1.5 rounded-xl border border-gray-300 hover:bg-gray-50">
 Email Me
 </a>
 </div>
